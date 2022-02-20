@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for DClassAmp
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -192,6 +192,119 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIREJYLE
 
+[Document10]
+DocumentPath=DClassAmp.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=.\Output Files\BOM\BOM-DClassAmp.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=DClassAmp 2022-02-20 10-30-21 AM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\Output Files\NC Drill\DClassAmp-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\Output Files\NC Drill\DClassAmp-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\Output Files\NC Drill\DClassAmp.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\Output Files\Gerber\DClassAmp.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\Output Files\Gerber\DClassAmp.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\Output Files\NC Drill\DClassAmp.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\Output Files\Gerber\DClassAmp.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\Output Files\Gerber\DClassAmp.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for DClassAmp\Design Rule Check - DClassAmp.html
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\Output Files\Pick Place\Pick Place for DClassAmp.csv
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -201,6 +314,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for DClassAmp
 
 [OutputGroup1]
 Name=Netlist Outputs
