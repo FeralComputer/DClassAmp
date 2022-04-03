@@ -218,90 +218,94 @@ DocumentPath=DClassAmp 2022-02-20 10-30-21 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output Files\NC Drill\DClassAmp-NonPlated.TXT
+DocumentPath=DClassAmp 2022-04-03 11-45-41 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Output Files\NC Drill\DClassAmp-Plated.TXT
+DocumentPath=Output Files\NC Drill\DClassAmp-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Output Files\NC Drill\DClassAmp.DRR
+DocumentPath=Output Files\NC Drill\DClassAmp-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Output Files\Gerber\DClassAmp.EXTREP
+DocumentPath=Output Files\NC Drill\DClassAmp.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Output Files\Gerber\DClassAmp.GBL
+DocumentPath=Output Files\Gerber\DClassAmp.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Output Files\Gerber\DClassAmp.GBO
+DocumentPath=Output Files\Gerber\DClassAmp.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Output Files\Gerber\DClassAmp.GBP
+DocumentPath=Output Files\Gerber\DClassAmp.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Output Files\Gerber\DClassAmp.GBS
+DocumentPath=Output Files\Gerber\DClassAmp.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Output Files\Gerber\DClassAmp.GD1
+DocumentPath=Output Files\Gerber\DClassAmp.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Output Files\Gerber\DClassAmp.GM1
+DocumentPath=Output Files\Gerber\DClassAmp.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Output Files\Gerber\DClassAmp.GM2
+DocumentPath=Output Files\Gerber\DClassAmp.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Output Files\Gerber\DClassAmp.GP1
+DocumentPath=Output Files\Gerber\DClassAmp.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Output Files\Gerber\DClassAmp.GP2
+DocumentPath=Output Files\Gerber\DClassAmp.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Output Files\Gerber\DClassAmp.GTL
+DocumentPath=Output Files\Gerber\DClassAmp.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Output Files\Gerber\DClassAmp.GTO
+DocumentPath=Output Files\Gerber\DClassAmp.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Output Files\Gerber\DClassAmp.GTP
+DocumentPath=Output Files\Gerber\DClassAmp.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Output Files\Gerber\DClassAmp.GTS
+DocumentPath=Output Files\Gerber\DClassAmp.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Output Files\NC Drill\DClassAmp.LDP
+DocumentPath=Output Files\Gerber\DClassAmp.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Output Files\Gerber\DClassAmp.REP
+DocumentPath=Output Files\NC Drill\DClassAmp.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Output Files\Gerber\DClassAmp.RUL
+DocumentPath=Output Files\Gerber\DClassAmp.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DClassAmp\Design Rule Check - DClassAmp.html
+DocumentPath=Output Files\Gerber\DClassAmp.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for DClassAmp\Design Rule Check - DClassAmp.html
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Output Files\Pick Place\Pick Place for DClassAmp.csv
 DItemRevisionGUID=
 
@@ -1269,6 +1273,9 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=GND|NetColor=$0075A19E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
